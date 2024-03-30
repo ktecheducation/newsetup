@@ -1,0 +1,16 @@
+{
+  "name": "newsetup",
+  "version": "1.0.0",
+  "description": "backend and db with interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "k tech education",
+  "license": "ISC"
+}
